@@ -1,2 +1,2 @@
-# 50projects50days
-50+ mini web projects using HTML, CSS &amp; JS
+# 50 Projects in 50 Days = HTML/CSS and Javascript
+
