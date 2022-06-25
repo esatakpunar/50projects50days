@@ -1,2 +1,2 @@
-# 50 Projects in 50 Days = HTML/CSS and Javascript
+# 50 Projects in 50 Days - HTML/CSS and Javascript
 
