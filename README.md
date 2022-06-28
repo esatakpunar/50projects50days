@@ -5,8 +5,8 @@
 | 01  | [Expanding Cards](https://github.com/esatakpunar/50projects50days/tree/main/01_expanding-cards) | [Live Demo](https://projects-expanding-cards.netlify.app/) |
 | 02  | [Progress Steps](https://github.com/esatakpunar/50projects50days/tree/main/02_progress-steps)   | [Live Demo](https://projects-progress-steps.netlify.app/)  |
 | 03  | [Rotating Navigation Animation](https://github.com/esatakpunar/50projects50days/tree/main/03_rotating-navigation)                                                               | [Live Demo](https://projects-rotating-navigation.netlify.app/)                                              |
-| 04  | [Hidden Search Widget]()                                                                        | [Live Demo]()                                              |
-| 05  | [Blurry Loading]()                                                                              | [Live Demo]()                                              |
+| 04  | [Hidden Search Widget](https://github.com/esatakpunar/50projects50days/tree/main/04-hidden-search-widget)                                                                        | [Live Demo](https://projects-hidden-search.netlify.app/)                                              |
+| 05  | [Blurry Loading](https://github.com/esatakpunar/50projects50days/tree/main/05_blurry-loading)                                                                              | [Live Demo](https://projects-blurry-loading.netlify.app/)                                              |
 | 06  | [Scroll Animation]()                                                                            | [Live Demo]()                                              |
 | 07  | [Split Landing Page]()                                                                          | [Live Demo]()                                              |
 | 08  | [Form Wave]()                                                                                   | [Live Demo]()                                              |
