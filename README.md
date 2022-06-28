@@ -4,7 +4,7 @@
 | :-: | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/esatakpunar/50projects50days/tree/main/01_expanding-cards) | [Live Demo](https://projects-expanding-cards.netlify.app/) |
 | 02  | [Progress Steps](https://github.com/esatakpunar/50projects50days/tree/main/02_progress-steps)   | [Live Demo](https://projects-progress-steps.netlify.app/)  |
-| 03  | [Rotating Navigation Animation]()                                                               | [Live Demo]()                                              |
+| 03  | [Rotating Navigation Animation](https://github.com/esatakpunar/50projects50days/tree/main/03_rotating-navigation)                                                               | [Live Demo](https://projects-rotating-navigation.netlify.app/)                                              |
 | 04  | [Hidden Search Widget]()                                                                        | [Live Demo]()                                              |
 | 05  | [Blurry Loading]()                                                                              | [Live Demo]()                                              |
 | 06  | [Scroll Animation]()                                                                            | [Live Demo]()                                              |
